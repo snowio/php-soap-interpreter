@@ -1,5 +1,5 @@
 {
-    "name": "meng-tian/php-soap-interpreter",
+    "name": "snowio/php-soap-interpreter",
     "description": "A PHP library for interpreting SOAP messages.",
     "keywords": ["SOAP"],
     "license": "MIT",
@@ -8,6 +8,10 @@
             "name": "Meng Tian",
             "email": "tianmeng94@hotmail.com"
         }
+    ],
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/snowio/"},
+        {"packagist.org": false}
     ],
     "require": {
         "php": ">=5.4.0"
