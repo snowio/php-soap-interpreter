@@ -1,6 +1,6 @@
 <?php
 
-namespace Meng\Soap;
+namespace SnowIO\Soap;
 
 /**
  * @internal
