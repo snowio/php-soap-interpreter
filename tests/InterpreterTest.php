@@ -1,9 +1,10 @@
 <?php
 
-use Meng\Soap\Interpreter;
-use Meng\Soap\SoapRequest;
+use SnowIO\Soap\Interpreter;
+use PHPUnit\Framework\TestCase;
+use SnowIO\Soap\SoapRequest;
 
-class InterpreterTest extends PHPUnit_Framework_TestCase
+class InterpreterTest extends TestCase
 {
     /**
      * @test
